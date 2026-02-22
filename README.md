@@ -1,4 +1,4 @@
-# 🥀 E2EE NEVERLAND CHAT
+# 🥀 E2EE NEVERLAND CHAT mr
 
 ![Security Badge](https://img.shields.io/badge/Security-OPSEC%20Ready-red)
 ![Encryption](https://img.shields.io/badge/Encryption-AES--256--GCM-green)
